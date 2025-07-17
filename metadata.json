@@ -1,0 +1,8 @@
+{
+  "name": "Web  Super Syntax",
+  "description": "An intelligent chat application with multiple expert personas for programming, research, and mathematics. Powered by Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
